@@ -1,17 +1,2 @@
-Timestamp,student_staff_faculty,major,business_IT,years_work,why,female_male,tools,rate,motivated
-2019/10/23 12:39:43 PM EST,Undergraduate student,management,IT professional,3-Jan,Want to learn data analytics,,Excel;PowerBI;Tableau;SQL;Python,10,
-2019/10/23 12:40:01 PM EST,MSDA,accounting,other,10-May,Nothing else to do,,Tableau,2,
-2019/10/23 12:49:00 PM EST,MSDA,accounting,IT professional,5-Mar,Wanted to see Dr. Chae ^-^,,Python,3,
-2019/10/23 7:00:46 PM EST,Graduate student,finance,IT professional,0,Wanted to see Dr. Chae ^-^,Male,Excel;PowerBI;Tableau;SQL;Python,10,10
-2019/10/23 7:02:27 PM EST,Industry,operations,IT professional,over 20,Nothing else to do,Female,Spark;Cloud computing,9,9
-2019/10/23 7:00:46 PM EST,Graduate student,finance,IT professional,1,Wanted to see Dr. Chae ^-^,Male,Excel;PowerBI;Tableau;SQL;Python,8,8
-2019/10/23 7:02:27 PM EST,Industry,operations,IT professional,over 21,Nothing else to do,Female,Spark;Cloud computing,1,7
-2019/10/23 7:00:46 PM EST,Graduate student,finance,IT professional,2,Wanted to see Dr. Chae ^-^,Male,Excel;PowerBI;Tableau;SQL;Python,2,6
-2019/10/23 7:02:27 PM EST,Industry,operations,IT professional,over 22,Nothing else to do,Female,Spark;Cloud computing,3,5
-2019/10/23 7:00:46 PM EST,Graduate student,finance,IT professional,3,Wanted to see Dr. Chae ^-^,Male,Excel;PowerBI;Tableau;SQL;Python,4,4
-2019/10/23 7:02:27 PM EST,Industry,operations,IT professional,over 23,Nothing else to do,Female,Spark;Cloud computing,5,3
-2019/10/23 7:00:46 PM EST,Graduate student,finance,IT professional,4,Wanted to see Dr. Chae ^-^,Male,Excel;PowerBI;Tableau;SQL;Python,2,2
-2019/10/23 7:02:27 PM EST,Industry,operations,IT professional,over 24,Nothing else to do,Female,Spark;Cloud computing,4,9
-2019/10/23 7:00:46 PM EST,Graduate student,finance,IT professional,5,Wanted to see Dr. Chae ^-^,Male,Excel;PowerBI;Tableau;SQL;Python,5,8
-2019/10/23 7:02:27 PM EST,Industry,operations,IT professional,over 25,Nothing else to do,Female,Spark;Cloud computing,6,7
-2019/10/23 7:00:46 PM EST,Graduate student,finance,IT professional,6,Wanted to see Dr. Chae ^-^,Male,Excel;PowerBI;Tableau;SQL;Python,7,10
+"Timestamp","student_staff_faculty","major","business_IT","years_work","why","female_male","tools","rate","motivated"
+"2019/10/23 7:56:17 PM EST","Undergraduate student","accounting","business professional","less than 5 years","Want to learn data analytics","Male","Excel;PowerBI","10","10"
