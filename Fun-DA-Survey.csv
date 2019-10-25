@@ -1,20 +1,23 @@
-Timestamp,student_staff_faculty,major,business_IT,years_work,why,female_male,tools,rate,motivated
-2019/10/23 7:56:17 PM EST,Undergraduate student,accounting,business professional,less than 5 years,Want to learn data analytics,Male,Excel;PowerBI;Python,10,10
-2019/10/23 7:56:17 PM EST,Undergraduate student,accounting,business professional,less than 5 years,Want to learn data analytics,Male,Excel;PowerBI,10,10
-2019/10/23 7:56:17 PM EST,Industry,MIS,business professional,less than 5 years,Want to learn data analytics,Male,Excel;PowerBI,9,10
-2019/10/23 7:56:17 PM EST,Industry,MIS,business professional,less than 5 years,Want to learn data analytics,Male,Excel;PowerBI,10,10
-2019/10/23 7:56:17 PM EST,Industry,MIS,business professional,less than 5 years,Want to learn data analytics,Male,Excel;PowerBI,10,9
-2019/10/23 7:56:17 PM EST,Industry,MIS,business professional,less than 5 years,Want to learn data analytics,Male,Excel;PowerBI,10,10
-2019/10/23 7:56:17 PM EST,Undergraduate student,accounting,business professional,less than 5 years,Want to learn data analytics,Male,Excel;PowerBI,10,10
-2019/10/23 7:56:17 PM EST,Undergraduate student,accounting,business professional,less than 5 years,Want to learn data analytics,Male,Excel;PowerBI,10,10
-2019/10/23 7:56:17 PM EST,Undergraduate student,accounting,business professional,less than 5 years,Want to learn data analytics,Male,Excel;PowerBI,10,10
-2019/10/23 7:56:17 PM EST,Undergraduate student,accounting,business professional,less than 5 years,Want to learn data analytics,Male,Excel;PowerBI,5,5
-2019/10/23 7:56:17 PM EST,Undergraduate student,marketing,business professional,less than 5 years,Want to learn data analytics,Female,Excel;PowerBI,5,5
-2019/10/23 7:56:17 PM EST,Undergraduate student,marketing,IT professional,less than 5 years,Want to learn data analytics,Female,Excel;PowerBI,5,5
-2019/10/23 7:56:17 PM EST,graduate student,marketing,IT professional,less than 5 years,Want to learn data analytics,Female,Excel;PowerBI,5,5
-2019/10/23 7:56:17 PM EST,graduate student,marketing,IT professional,less than 5 years,Want to learn data analytics,Female,Excel;PowerBI,5,5
-2019/10/23 7:56:17 PM EST,graduate student,marketing,IT professional,less than 5 years,Want to learn data analytics,Female,Excel;PowerBI,10,10
-2019/10/23 7:56:17 PM EST,graduate student,accounting,IT professional,less than 5 years,Want to learn data analytics,Female,Excel;PowerBI,10,10
-2019/10/23 7:56:17 PM EST,graduate student,accounting,IT professional,less than 5 years,Want to learn data analytics,Female,Excel;PowerBI,2,4
-2019/10/23 7:56:17 PM EST,graduate student,accounting,IT professional,less than 5 years,Want to learn data analytics,Female,Excel;PowerBI,2,4
-2019/10/23 7:56:17 PM EST,graduate student,accounting,IT professional,less than 5 years,Want to learn data analytics,Female,Excel;PowerBI,2,4
+"Timestamp","student_staff_faculty","major","business_IT","years_work","why","female_male","tools","rate","motivated"
+"2019/10/23 7:56:17 PM EST","Undergraduate student","accounting","business professional","less than 5 years","Want to learn data analytics","Male","Excel;PowerBI","10","10"
+"2019/10/25 12:57:25 PM EST","Graduate student","MIS","business professional","less than 5 years","Wanted to see Dr. Chae ^-^","Male","Excel;PowerBI;Tableau;SQL;Python","10","10"
+"2019/10/25 12:57:36 PM EST","Industry","liberal arts & humanities","business professional","less than 5 years","Want to learn data analytics","Female","Excel;SQL","3","10"
+"2019/10/25 12:57:50 PM EST","Graduate student","liberal arts & humanities","business professional","less than 5 years","Wanted to see Dr. Chae ^-^","Female","Excel","2","7"
+"2019/10/25 12:57:53 PM EST","Graduate student","management","business professional","less than 5 years","Want to learn data analytics","Male","Excel","2","10"
+"2019/10/25 12:58:20 PM EST","Industry","STEM","business professional","less than 5 years","Want to learn data analytics","Female","Excel;SQL;Python","7","10"
+"2019/10/25 12:59:46 PM EST","Undergraduate student","STEM","business professional","less than 5 years","Want to learn data analytics","Male","Excel","1","8"
+"2019/10/25 1:00:02 PM EST","Staff & Faculty","finance","business professional","between 16 and 20 years","Want to learn data analytics","Female","Excel","1","10"
+"2019/10/25 1:00:04 PM EST","Graduate student","marketing","business professional","less than 5 years","Want to learn data analytics","Female","Excel","6","9"
+"2019/10/25 1:00:12 PM EST","Graduate student","management","business professional","less than 5 years","Want to learn data analytics","Female","Excel","5","7"
+"2019/10/25 1:00:50 PM EST","Staff & Faculty","marketing","business professional","I am very old :(","Want to learn data analytics","Female","Excel","3","9"
+"2019/10/25 1:01:00 PM EST","Staff & Faculty","MIS","business professional","between 16 and 20 years","Want to learn data analytics","Male","Excel","1","10"
+"2019/10/25 1:01:33 PM EST","Graduate student","marketing","business professional","between 6 and 10 years","Want to learn data analytics","Male","Excel","4","10"
+"2019/10/25 1:02:03 PM EST","Staff & Faculty","management","business professional","I am very old :(","Nothing else to do","Male","Excel;PowerBI;Tableau","7","7"
+"2019/10/25 1:02:08 PM EST","Graduate student","MIS","business professional","less than 5 years","Wanted to see Dr. Chae ^-^","Male","Excel;PowerBI;Tableau;SQL;Python","6","10"
+"2019/10/25 1:02:17 PM EST","Graduate student","MIS","business professional","less than 5 years","Want to learn data analytics","Male","Excel;Tableau;SQL;Python","7","10"
+"2019/10/25 1:03:10 PM EST","Staff & Faculty","liberal arts & humanities","business professional","I am very old :(","Want to learn data analytics","Female","Excel","4","8"
+"2019/10/25 1:04:45 PM EST","Staff & Faculty","operations","business professional","between 6 and 10 years","Want to learn data analytics","Male","Excel","8","10"
+"2019/10/25 1:04:58 PM EST","Staff & Faculty","liberal arts & humanities","IT professional","I am very old :(","Wanted to see Dr. Chae ^-^","Male","Excel;Tableau;Python;Cloud computing","5","8"
+"2019/10/25 1:05:21 PM EST","Staff & Faculty","management","business professional","less than 5 years","Want to learn data analytics","Female","Excel;Python","5","10"
+"2019/10/25 1:06:12 PM EST","Staff & Faculty","management","business professional","between 6 and 10 years","Want to learn data analytics","Female","Excel","6","10"
+"2019/10/25 1:06:23 PM EST","Staff & Faculty","liberal arts & humanities","business professional","less than 5 years","Want to learn data analytics","Female","Excel","1","8"
