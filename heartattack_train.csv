@@ -1,4 +1,4 @@
-Age,Marital_Status,Gender,Weight_Category,Cholesterol,Stress_Management,Trait_Anxiety,2nd_Heart_Attack
+Age,Marital_Status,Gender,Weight_Category,Cholesterol,Stress_Management,Trait_Anxiety,Heart_Attack
 60,2,0,1,150,1,50,Yes
 69,2,1,1,170,0,60,Yes
 52,1,0,0,174,1,35,No
