@@ -1,28 +1,28 @@
-Timestamp,gender,region,collegemajor,jobcategory,yearsofwork,interestinda,tools,rateyourda,motivated,happiness
-2020/08/04 3:10:23 PM EST,Male,Midwest,MIS,IT professional,between 10 and 15 years,Forced to attend :(,Python;R,9,10,10
-2020/08/04 4:57:29 PM EST,Male,Midwest,Others,business professional,less than 3 years,Want to learn data analytics,Excel;PowerBI;Tableau;SQL;Python;R;Cloud computing,7,8,7
-2020/08/04 4:58:18 PM EST,Male,Northeast,management,business professional,between 5 and 10 years,Forced to attend :(,SQL;Python;Cloud computing,6,8,5
-2020/08/04 4:59:09 PM EST,Male,Midwest,management,business professional,between 16 and 20 years,Wanted to see Dr. Chae ^-^,Excel;PowerBI;Tableau;SQL;Python;R;Cloud computing,9,10,9
-2020/08/04 5:54:24 PM EST,Female,Northeast,liberal arts & humanities,business professional,between 16 and 20 years,Want to learn data analytics,Excel,1,1,1
-2020/08/04 5:55:05 PM EST,Female,Southeast,management,business professional,less than 3 years,Want to learn data analytics,Excel;PowerBI;Python,1,1,1
-2020/08/05 11:16:49 AM EST,Female,West,marketing,business professional,between 3 and 5 years,Want to learn data analytics,Excel;PowerBI,3,2,2
-2020/08/04 3:10:23 PM EST,Male,Midwest,MIS,IT professional,between 10 and 15 years,Forced to attend :(,Python;R,9,10,10
-2020/08/04 4:57:29 PM EST,Male,Midwest,Others,business professional,less than 3 years,Want to learn data analytics,Excel;PowerBI;Tableau;SQL;Python;R;Cloud computing,7,8,7
-2020/08/04 4:58:18 PM EST,Male,Northeast,management,business professional,between 5 and 10 years,Forced to attend :(,SQL;Python;Cloud computing,6,8,5
-2020/08/04 4:59:09 PM EST,Male,Midwest,management,business professional,between 16 and 20 years,Wanted to see Dr. Chae ^-^,Excel;PowerBI;Tableau;SQL;Python;R;Cloud computing,9,5,9
-2020/08/04 5:54:24 PM EST,Female,Northeast,liberal arts & humanities,business professional,between 16 and 20 years,Want to learn data analytics,Excel,1,5,1
-2020/08/04 5:55:05 PM EST,Female,Southeast,management,business professional,less than 3 years,Want to learn data analytics,Excel;PowerBI;Python,1,5,1
-2020/08/05 11:16:49 AM EST,Female,West,marketing,business professional,between 3 and 5 years,Want to learn data analytics,Excel;PowerBI,3,5,2
-2020/08/04 3:10:23 PM EST,Male,Midwest,MIS,IT professional,between 10 and 15 years,Forced to attend :(,Python;R,9,5,10
-2020/08/04 4:57:29 PM EST,Male,Midwest,Others,business professional,less than 3 years,Want to learn data analytics,Excel;PowerBI;Tableau;SQL;Python;R;Cloud computing,7,5,7
-2020/08/04 4:58:18 PM EST,Male,Northeast,management,business professional,between 5 and 10 years,Forced to attend :(,SQL;Python;Cloud computing,6,5,5
-2020/08/04 4:59:09 PM EST,Male,Midwest,management,business professional,between 16 and 20 years,Wanted to see Dr. Chae ^-^,Excel;PowerBI;Tableau;SQL;Python;R;Cloud computing,9,5,9
-2020/08/04 5:54:24 PM EST,Female,Northeast,liberal arts & humanities,business professional,between 16 and 20 years,Want to learn data analytics,Excel,1,5,1
-2020/08/04 5:55:05 PM EST,Female,Southeast,management,business professional,less than 3 years,Want to learn data analytics,Excel;PowerBI;Python,1,10,1
-2020/08/05 11:16:49 AM EST,Female,West,marketing,business professional,between 3 and 5 years,Want to learn data analytics,Excel;PowerBI,3,10,2
-2020/08/04 3:10:23 PM EST,Male,Midwest,MIS,IT professional,between 10 and 15 years,Forced to attend :(,Python;R,9,10,10
-2020/08/04 4:57:29 PM EST,Male,Midwest,Others,business professional,less than 3 years,Want to learn data analytics,Excel;PowerBI;Tableau;SQL;Python;R;Cloud computing,7,10,7
-2020/08/04 4:58:18 PM EST,Male,Northeast,management,business professional,between 5 and 10 years,Forced to attend :(,SQL;Python;Cloud computing,6,10,5
-2020/08/04 4:59:09 PM EST,Male,Midwest,management,business professional,between 16 and 20 years,Wanted to see Dr. Chae ^-^,Excel;PowerBI;Tableau;SQL;Python;R;Cloud computing,9,10,9
-2020/08/04 5:54:24 PM EST,Female,Northeast,liberal arts & humanities,business professional,between 16 and 20 years,Want to learn data analytics,Excel,1,10,1
-2020/08/04 5:55:05 PM EST,Female,Southeast,management,business professional,less than 3 years,Want to learn data analytics,Excel;PowerBI;Python,1,10,1
+"Timestamp","gender","region","collegemajor","jobcategory","yearsofwork","interestinda","tools","rateyourda","motivated","happiness"
+"2020/08/21 2:30:31 PM EST","Female","Midwest","accounting","business professional","less than 3 years","Want to learn data analytics","Excel","2","8","9"
+"2020/08/21 2:32:17 PM EST","Male","Midwest","liberal arts & humanities","business professional","between 5 and 10 years","Want to learn data analytics","Excel","3","6","5"
+"2020/08/21 2:36:16 PM EST","Female","Midwest","STEM","business professional","less than 3 years","Want to learn data analytics","Excel;SQL;Python","5","8","7"
+"2020/08/21 2:36:49 PM EST","Male","Midwest","management","business professional","between 3 and 5 years","Forced to attend :(","Excel","2","5","3"
+"2020/08/21 2:37:04 PM EST","Male","Midwest","STEM","business professional","I am very old :(","Want to learn data analytics","Excel;PowerBI;Tableau","6","7","7"
+"2020/08/21 2:37:05 PM EST","Male","Midwest","finance","business professional","between 10 and 15 years","Wanted to see Dr. Chae ^-^","Excel;Tableau","2","10","10"
+"2020/08/21 2:37:05 PM EST","Female","Midwest","marketing","business professional","between 3 and 5 years","Want to learn data analytics","Excel","1","10","7"
+"2020/08/21 2:37:12 PM EST","Female","Southeast","liberal arts & humanities","business professional","between 10 and 15 years","Nothing else to do","Excel","3","5","9"
+"2020/08/21 2:37:17 PM EST","Male","Midwest","management","business professional","between 5 and 10 years","Want to learn data analytics","Excel;PowerBI;Tableau;SQL","7","6","8"
+"2020/08/21 2:37:20 PM EST","Female","Midwest","accounting","business professional","between 3 and 5 years","Want to learn data analytics","Excel;Tableau","3","9","8"
+"2020/08/21 2:37:24 PM EST","Female","Midwest","Others","business professional","between 5 and 10 years","Want to learn data analytics","Excel;Tableau;SQL","3","10","8"
+"2020/08/21 2:37:26 PM EST","Female","West","marketing","business professional","between 3 and 5 years","Want to learn data analytics","Excel;PowerBI","4","10","10"
+"2020/08/21 2:37:27 PM EST","Male","Midwest","STEM","business professional","between 5 and 10 years","Forced to attend :(","Excel","7","7","7"
+"2020/08/21 2:37:40 PM EST","Female","Midwest","liberal arts & humanities","business professional","between 10 and 15 years","Want to learn data analytics","Excel;PowerBI;Tableau","4","9","7"
+"2020/08/21 2:37:47 PM EST","Male","Midwest","STEM","business professional","between 5 and 10 years","Want to learn data analytics","Excel;SQL;Python","4","10","10"
+"2020/08/21 2:37:56 PM EST","Male","Southeast","STEM","business professional","between 10 and 15 years","Nothing else to do","Excel","3","7","7"
+"2020/08/21 2:38:03 PM EST","Male","Midwest","management","business professional","between 10 and 15 years","Forced to attend :(","Excel;PowerBI;SQL","5","6","7"
+"2020/08/21 2:38:25 PM EST","Female","Midwest","STEM","business professional","between 3 and 5 years","Want to learn data analytics","Excel;PowerBI;Tableau","4","7","6"
+"2020/08/21 2:38:28 PM EST","Male","Midwest","marketing","business professional","between 5 and 10 years","Forced to attend :(","Excel;Tableau","7","8","4"
+"2020/08/21 2:38:30 PM EST","Male","Southeast","marketing","business professional","less than 3 years","Forced to attend :(","Excel","2","5","7"
+"2020/08/21 2:38:40 PM EST","Female","Midwest","finance","business professional","between 3 and 5 years","Wanted to see Dr. Chae ^-^","Excel;PowerBI","5","7","9"
+"2020/08/21 2:38:44 PM EST","Female","Midwest","management","IT professional","between 10 and 15 years","Want to learn data analytics","Excel;PowerBI;Tableau;SQL;Python;Cloud computing","7","10","7"
+"2020/08/21 2:38:50 PM EST","Male","Midwest","finance","business professional","between 3 and 5 years","Want to learn data analytics","Excel","1","5","7"
+"2020/08/21 2:38:52 PM EST","Male","Midwest","STEM","business professional","between 16 and 20 years","Want to learn data analytics","Excel;Tableau","7","10","8"
+"2020/08/21 2:38:56 PM EST","Male","Midwest","finance","business professional","between 3 and 5 years","Want to learn data analytics","Excel;PowerBI;Tableau;SQL;Python;R;Cloud computing","6","9","8"
+"2020/08/21 2:38:58 PM EST","Male","Midwest","MIS","IT professional","between 16 and 20 years","Wanted to see Dr. Chae ^-^","Excel;PowerBI;Tableau;SQL;Python;R;Cloud computing","7","10","10"
+"2020/08/21 2:39:16 PM EST","Male","Midwest","management","business professional","I am very old :(","Wanted to see Dr. Chae ^-^","Excel","4","10","8"
