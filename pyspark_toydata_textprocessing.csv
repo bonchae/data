@@ -1,9 +1,6 @@
 ﻿id,text
-0,Hi I heard about Spark
-1,I wish Java could use case classes
-2,"Logistic,regression,models,are,neat"
-3,I was the read ballon
-4,May had a little lamb
-5,I love Spark
-6,I love Pyspark
-7,I don't like Java
+0,I love Spark
+1,I love Pyspark
+2,I don't like Java
+3,Pyspark is great!
+4,Pyspark is good but Spark NLP is better for text mining
