@@ -1,11 +1,11 @@
 Review_text,Label
-I love this sandwich. This is the best sandwich I've ever had!,pos
-this is an amazing place! I want to visit this place again!,pos
-I feel very good about these beers. Best beers ever!,pos
-this is my best work. Best of all!,pos
-what an awesome view,pos
-I do not like this restaurant. Hated it!,neg
-I am tired of this stuff.,neg
-I can't deal with this,neg
-he is my sworn enemy! Never!,neg
-my boss is horrible. Worst!,neg
+I love this sandwich. This is the best sandwich I've ever had! Positive Experience!,pos
+this is an amazing place! I want to visit this place again! Positive Experience!,pos
+I feel very good about these beers. Best beers ever! Positive Experience!,pos
+this is my best work. Best of all! Positive Experience!,pos
+what an awesome view Very positive!,pos
+I do not like this restaurant. Hated it! Very negative experience!,neg
+I am tired of this stuff. Getting negative reactions from customers. Bad,neg
+I can't deal with this I hate this deal. Negative,neg
+he is my sworn enemy! Never! Negative!,neg
+my boss is horrible. Worst! Very negative experience!,neg
